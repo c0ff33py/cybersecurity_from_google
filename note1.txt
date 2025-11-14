@@ -1,0 +1,7 @@
+TCP/IP model
+THe four laysers of the TCP/IP model
+
+1.	Network Access
+2.	Internet 
+3.	Transport
+4.	Application
