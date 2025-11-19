@@ -23,3 +23,6 @@
 
 ### IEEE802.11 (WIFI)
 	- is a set of standards that define communications for wireless LANs.
+
+### WPA
+	- is a wireless security protocol for devices to connect to the internet.
